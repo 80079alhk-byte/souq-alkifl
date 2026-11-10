@@ -1,0 +1,14 @@
+{
+  "name": "سوق الكفل",
+  "short_name": "سوق الكفل",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "description": "متجر سوق الكفل للتسوق المحلي والتوصيل المجاني داخل محافظة بابل."
+}
